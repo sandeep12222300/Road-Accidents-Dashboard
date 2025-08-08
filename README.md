@@ -21,7 +21,6 @@ The Tableau dashboard provides:
 | File | Description |
 |------|-------------|
 | `Road Accidents dashboard.twbx` | Packaged Tableau dashboard |
-| `road_accidents.csv` | Sample accident dataset used |
 | `Road Accidents Dashboard.png` | Dashboard preview image |
 | `README.md` | Project documentation |
 
